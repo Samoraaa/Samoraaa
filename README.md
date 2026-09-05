@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou de Monte Alto<br><br>- 🔭 Ainda não trabalho.<br>- 📚 Estou estudando C# e C.<br>- ⚡ Tempo livre leio livros.</p>
+<p align="left">Eu sou de Ribeirão Preto<br><br>- 🔭 Ainda não trabalho.<br>- 📚 Estou estudando C# e C.<br>- ⚡ Tempo livre leio livros.</p>
 
 ###
 
